@@ -3,5 +3,5 @@ Testing Unity's ability to load UPM packages through git URL on a specified path
 ### UPM URL
 
 ```
-https://github.com/frarees/unity-pkg-path-lfs.git?path=/pkg
+https://github.com/Sadialk/unity-pkg-path-lfs-master.git?path=/pkg
 ```
